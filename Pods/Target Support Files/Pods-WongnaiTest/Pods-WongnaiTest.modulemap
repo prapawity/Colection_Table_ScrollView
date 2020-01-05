@@ -1,0 +1,6 @@
+framework module Pods_WongnaiTest {
+  umbrella header "Pods-WongnaiTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
